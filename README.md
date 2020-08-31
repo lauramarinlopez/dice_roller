@@ -1,5 +1,4 @@
 # Dice Roller Simulator
-Simple dice roller project
 
 How it works:
 1. Run file
