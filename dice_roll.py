@@ -18,5 +18,7 @@ while again:
  
     if another_roll.lower() == 'yes' or another_roll.lower() == 'y':
         continue
+    if another_roll.lower() == 'no' or another_roll.lower() == 'n':
+        break
     else:
         break
